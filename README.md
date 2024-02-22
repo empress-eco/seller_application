@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Empress Logo" />
-</div>
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 Empress is a dynamic platform designed to foster active engagement and meaningful interactions within communities. Ideal for community leaders, organizations, and individuals, Empress provides robust and user-friendly tools for effective community management and growth. 
 
 Visit our [website](https://empress.eco/) for more information or reach out to our [support team](https://grow.empress.eco/) for any inquiries. 
+
+</div>
+
+
 
 ## Key Features
 
